@@ -8,14 +8,27 @@
             "type": "item",
             "settings": {
               "title": "Bootstrap Shopify Theme",
-              "description": "<p>A free Shopify Theme built with Bootstrap, BEM, Theme Tools, Swiper, Gulp, Parcel, Liquid, SASS, PostCSS, ESNext, ... and Passion.</p>",
+              "description": "<p>A free Shopify Theme built with Bootstrap, BEM, Theme Tools, Swiper, Gulp, Parcel, Liquid, SASS, PostCSS, ESNext, ... and Passion.<\/p>",
               "actionButton": "Get Source Code",
-              "image": "shopify://shop_images/working-at-night.jpg"
+              "actionLink": ""
+            }
+          },
+          "8f299539-9c7e-4560-999e-3178a0366c3a": {
+            "type": "item",
+            "settings": {
+              "title": "Name Tét",
+              "description": "",
+              "actionButton": "",
+              "actionLink": ""
             }
           }
         },
-        "block_order": ["66040de5-ead7-4970-adb2-475b87d8343c"],
-        "settings": {}
+        "block_order": [
+          "66040de5-ead7-4970-adb2-475b87d8343c",
+          "8f299539-9c7e-4560-999e-3178a0366c3a"
+        ],
+        "settings": {
+        }
       },
       "16214103457aee0d39": {
         "type": "featured-products",
@@ -162,49 +175,49 @@
           "f2786828-4216-4342-ab24-382511c86db1": {
             "type": "item",
             "settings": {
-              "article": "news/dolores-quis-aliquam-delectus-voluptatem-quae-et"
+              "article": "news\/dolores-quis-aliquam-delectus-voluptatem-quae-et"
             }
           },
           "2555878b-7b1f-4b61-ad3a-b28a85c7d642": {
             "type": "item",
             "settings": {
-              "article": "news/qui-saepe-ratione-reprehenderit-labore-veritatis-animi-tempora-autem"
+              "article": "news\/qui-saepe-ratione-reprehenderit-labore-veritatis-animi-tempora-autem"
             }
           },
           "8c332891-1e3e-4805-89ae-38f739cb3304": {
             "type": "item",
             "settings": {
-              "article": "news/optio-dicta-ut-earum-veniam-eum-consequatur-laborum"
+              "article": "news\/optio-dicta-ut-earum-veniam-eum-consequatur-laborum"
             }
           },
           "98c08ec6-9ca9-43a2-984c-bf336b9fbe52": {
             "type": "item",
             "settings": {
-              "article": "news/maiores-itaque-qui-et"
+              "article": "news\/maiores-itaque-qui-et"
             }
           },
           "cf9605ca-e217-43f3-93ee-3b21943f25c0": {
             "type": "item",
             "settings": {
-              "article": "news/quidem-vero-suscipit-dolore-ad-maiores-deleniti-delectus"
+              "article": "news\/quidem-vero-suscipit-dolore-ad-maiores-deleniti-delectus"
             }
           },
           "532f857d-4f6d-42d2-a06b-7989188b34d7": {
             "type": "item",
             "settings": {
-              "article": "news/facilis-ipsam-at-nesciunt-enim"
+              "article": "news\/facilis-ipsam-at-nesciunt-enim"
             }
           },
           "5e05500b-02d2-4d11-a30b-8aa28860e8bd": {
             "type": "item",
             "settings": {
-              "article": "news/ut-voluptates-cumque-eligendi-ea-sapiente-rerum-quia"
+              "article": "news\/ut-voluptates-cumque-eligendi-ea-sapiente-rerum-quia"
             }
           },
           "08435eb3-9e5c-4c84-8efd-b5164449b1c3": {
             "type": "item",
             "settings": {
-              "article": "news/doloribus-quae-aliquam-accusamus-ea-optio-distinctio-quasi"
+              "article": "news\/doloribus-quae-aliquam-accusamus-ea-optio-distinctio-quasi"
             }
           }
         },
@@ -223,9 +236,15 @@
         }
       }
     },
-    "content_for_index": ["16214099630eec9cc3", "16214103457aee0d39", "162141044380a7180d", "16214105149e606985"]
+    "content_for_index": [
+      "16214099630eec9cc3",
+      "16214103457aee0d39",
+      "162141044380a7180d",
+      "16214105149e606985"
+    ]
   },
   "presets": {
-    "Default": {}
+    "Default": {
+    }
   }
 }
